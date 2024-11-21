@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bajama237
-- 👀 I’m interested in  la programmation avec python
-- 🌱 I’m currently learning  Django
-- 💞️ I’m looking to collaborate on des projets django
+- 👀 i'm interested in programming with python, php and javascript
+- 🌱 I’m currently learning  React, Laravel, Django
+- 💞️ I’m looking to collaborate on des projets
 - 📫 How to reach me : danielntague1@gmail.com
 
 <!---
